@@ -1,6 +1,6 @@
 # D support for Visual Studio Code
 
-[![Visual Studio Marketplace](https://img.shields.io/vscode-marketplace/v/LaurentTreguier.vscode-dls.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=LaurentTreguier.vscode-dls)
+[![Visual Studio Marketplace](https://img.shields.io/vscode-marketplace/v/RUSshy.vscode-dls.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=RUSshy.vscode-dls)
 
 A Visual Studio Code extension for [Dlang](https://dlang.org).
 Provides syntax highlighting, dub build integration with [VSCode tasks](https://code.visualstudio.com/Docs/editor/tasks) and editing features using the [Language Server protocol](https://microsoft.github.io/language-server-protocol).
